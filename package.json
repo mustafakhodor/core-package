@@ -1,6 +1,6 @@
 {
   "name": "@mustafanet/core-package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple package with an add function",
   "main": "index.js",
   "scripts": {
