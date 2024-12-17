@@ -1,11 +1,11 @@
 {
   "name": "@mustafanet/core-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple package with an add function",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\" && exit 0",
-    "release": "standard-version"
+    "release": "standard-version && git push --follow-tags origin main && npm publish"
   },
   "keywords": [
     "add",
