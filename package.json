@@ -1,0 +1,20 @@
+{
+  "name": "@mustafanet/core-package",
+  "version": "1.0.0",
+  "description": "A simple package with an add function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0",
+    "release": "standard-version"
+  },
+  "keywords": [
+    "add",
+    "math",
+    "example"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
